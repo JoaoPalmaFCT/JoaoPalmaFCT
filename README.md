@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-- 💻 I'm Computer Science Engineering Student at NOVA SST / FCT-UNL
+- 💻 I'm a Computer Science and Engineering Msc Student at NOVA SST / FCT-UNL
 
 <div align="center">
   <a href="https://github.com/JoaoPalmaFCT">
