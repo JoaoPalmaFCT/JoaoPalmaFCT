@@ -16,7 +16,6 @@
   <img align="center" alt="JMP-android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
   <img align="center" alt="JMP-arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg">
   <img align="center" alt="JMP-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="JMP-ocaml" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ocaml/ocaml-original-wordmark.svg">
     </div>  
 </div>
 
